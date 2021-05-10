@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jayesh Kumar
 - 👀 I’m interested in UI, UX and visuals designing.
 - 🌱 I’m currently learning User Expirence
-- 💞️ I’m looking to collaborate on ...
+- 💼 I’m currently working with Esocial, Burner Media & hightouch
 - 📫 You can DM me on instagram @krjdesgnz
+- You can also email me: krjayesh21@gmial.com
 
 <!---
 krjayesh/krjayesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
