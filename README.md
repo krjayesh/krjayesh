@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayesh Kumar
 - 👀 I’m interested in UI, UX and visuals designing.
 - 🌱 I’m currently learning User Expirence
-- 💼 C-founder of @gossypapp & @foundersmafia
+- 💼 C-founder of GossypApp & Founders Mafia Podcasts
 - 📫 You can DM me on instagram @krjdesgnz
 - You can also email me: krjayesh21@gmial.com
 
