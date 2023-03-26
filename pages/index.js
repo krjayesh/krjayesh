@@ -1,10 +1,10 @@
 import React from 'react'
 import Head from 'next/head'
 
-const Home2 = (props) => {
+const Home = (props) => {
   return (
     <>
-      <div className="home2-container">
+      <div className="home-container">
         <Head>
           <title>Jayesh Kumar • Interface Designer</title>
           <meta
@@ -20,8 +20,8 @@ const Home2 = (props) => {
             content="A raising gen-z UI designer from India."
           />
         </Head>
-        <div className="home2-container01">
-          <span className="home2-text">
+        <div className="home-container01">
+          <span className="home-text">
             <span>
               I&apos;m
               <span
@@ -30,10 +30,10 @@ const Home2 = (props) => {
                 }}
               />
             </span>
-            <span className="home2-text02">Jayesh Kumar</span>
+            <span className="home-text02">Jayesh Kumar</span>
             <span>, a 17-year-old UI designer from India.</span>
           </span>
-          <span className="home2-text04">
+          <span className="home-text04">
             <span>
               I&apos;m passionate about creating killer interfaces that users
               love. I design for
@@ -47,7 +47,7 @@ const Home2 = (props) => {
               href="https://joinblite.com"
               target="_blank"
               rel="noreferrer noopener"
-              className="home2-link"
+              className="home-link"
             >
               Blite
             </a>
@@ -64,30 +64,30 @@ const Home2 = (props) => {
               href="https://crestlyconsulting.com/"
               target="_blank"
               rel="noreferrer noopener"
-              className="home2-link01"
+              className="home-link01"
             >
               Crestly Consulting
             </a>
             <span> as a designer.</span>
           </span>
-          <div className="home2-container02">
-            <span className="home2-text08">Reach me at</span>
+          <div className="home-container02">
+            <span className="home-text08">Reach me at</span>
             <img
               alt="image"
-              src="/playground_assets/hyphen1.svg"
-              className="home2-image"
+              src="/playground_assets/seprater1.svg"
+              className="home-image"
             />
             <a
               href="https://www.instagram.com/krjayesh2110/"
               target="_blank"
               rel="noreferrer noopener"
-              className="home2-link02"
+              className="home-link02"
             >
-              <div className="home2-container03">
+              <div className="home-container03">
                 <img
                   alt="image"
                   src="/playground_assets/instagram1.svg"
-                  className="home2-image01"
+                  className="home-image01"
                 />
               </div>
             </a>
@@ -95,13 +95,13 @@ const Home2 = (props) => {
               href="https://twitter.com/krjdesignz"
               target="_blank"
               rel="noreferrer noopener"
-              className="home2-link03"
+              className="home-link03"
             >
-              <div className="home2-container04">
+              <div className="home-container04">
                 <img
                   alt="image"
                   src="/playground_assets/twitter1.svg"
-                  className="home2-image02"
+                  className="home-image02"
                 />
               </div>
             </a>
@@ -109,13 +109,13 @@ const Home2 = (props) => {
               href="https://dribbble.com/krjayesh"
               target="_blank"
               rel="noreferrer noopener"
-              className="home2-link04"
+              className="home-link04"
             >
-              <div className="home2-container05">
+              <div className="home-container05">
                 <img
                   alt="image"
                   src="/playground_assets/dribbble1.svg"
-                  className="home2-image03"
+                  className="home-image03"
                 />
               </div>
             </a>
@@ -123,40 +123,40 @@ const Home2 = (props) => {
               href="https://wa.me/919428408742"
               target="_blank"
               rel="noreferrer noopener"
-              className="home2-link05"
+              className="home-link05"
             >
-              <div className="home2-container06">
+              <div className="home-container06">
                 <img
                   alt="image"
                   src="/playground_assets/whatsapp1.svg"
-                  className="home2-image04"
+                  className="home-image04"
                 />
               </div>
             </a>
             <a
               href="mailto:krjayesh2004@gmail.com?subject="
-              className="home2-link06"
+              className="home-link06"
             >
-              <div className="home2-container07">
+              <div className="home-container07">
                 <img
                   alt="image"
                   src="/playground_assets/email.svg"
-                  className="home2-image05"
+                  className="home-image05"
                 />
               </div>
             </a>
           </div>
-          <div className="home2-container08">
+          <div className="home-container08">
             <a
               href="https://www.instagram.com/krjayesh2110/"
               target="_blank"
               rel="noreferrer noopener"
             >
-              <div className="home2-container09">
+              <div className="home-container09">
                 <img
                   alt="image"
                   src="/playground_assets/instagram1.svg"
-                  className="home2-image06"
+                  className="home-image06"
                 />
               </div>
             </a>
@@ -165,11 +165,11 @@ const Home2 = (props) => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <div className="home2-container10">
+              <div className="home-container10">
                 <img
                   alt="image"
                   src="/playground_assets/twitter1.svg"
-                  className="home2-image07"
+                  className="home-image07"
                 />
               </div>
             </a>
@@ -178,11 +178,11 @@ const Home2 = (props) => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <div className="home2-container11">
+              <div className="home-container11">
                 <img
                   alt="image"
                   src="/playground_assets/dribbble1.svg"
-                  className="home2-image08"
+                  className="home-image08"
                 />
               </div>
             </a>
@@ -191,32 +191,32 @@ const Home2 = (props) => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <div className="home2-container12">
+              <div className="home-container12">
                 <img
                   alt="image"
                   src="/playground_assets/whatsapp1.svg"
-                  className="home2-image09"
+                  className="home-image09"
                 />
               </div>
             </a>
             <a href="mailto:krjayesh2004@gmail.com?subject=">
-              <div className="home2-container13">
+              <div className="home-container13">
                 <img
                   alt="image"
                   src="/playground_assets/email.svg"
-                  className="home2-image10"
+                  className="home-image10"
                 />
               </div>
             </a>
           </div>
         </div>
-        <div className="home2-container14">
+        <div className="home-container14">
           <img
             alt="image"
             src="/playground_assets/grinning-face-with-sweat--v2-1500h.png"
-            className="home2-image11"
+            className="home-image11"
           />
-          <span className="home2-text09">
+          <span className="home-text09">
             I’ll upload a resume soon
             <span
               dangerouslySetInnerHTML={{
@@ -228,7 +228,7 @@ const Home2 = (props) => {
       </div>
       <style jsx>
         {`
-          .home2-container {
+          .home-container {
             width: 100%;
             display: flex;
             overflow: auto;
@@ -241,71 +241,71 @@ const Home2 = (props) => {
             background-repeat: no-repeat;
             background-position: center;
           }
-          .home2-container01 {
+          .home-container01 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             flex-direction: column;
             justify-content: center;
           }
-          .home2-text {
+          .home-text {
             color: rgb(164, 171, 191);
-            font-size: 2.34375vh;
+            font-size: 3.0837004405286343vh;
             font-style: normal;
             font-family: Circular Std Book;
             font-weight: 400;
-            line-height: 2.9296875vh;
-            margin-bottom: 2.34375vh;
+            line-height: 3.891336270190896vh;
+            margin-bottom: 2.202643171806167vh;
           }
-          .home2-text02 {
+          .home-text02 {
             color: #00ffd4;
           }
-          .home2-text04 {
+          .home-text04 {
             color: rgb(164, 171, 191);
-            width: 71.875vh;
-            font-size: 2.34375vh;
+            width: 96.0352422907489vh;
+            font-size: 3.0837004405286343vh;
             font-style: normal;
             text-align: center;
             font-family: Circular Std Book;
             font-weight: 400;
-            line-height: 3.41797vh;
-            margin-bottom: 3.90625vh;
+            line-height: 3.891336270190896vh;
+            margin-bottom: 5.873715124816447vh;
           }
-          .home2-link {
+          .home-link {
             color: #2693ff;
           }
-          .home2-link01 {
+          .home-link01 {
             color: #b752ff;
           }
-          .home2-container02 {
-            gap: 1.953125vh;
+          .home-container02 {
+            gap: 2.9368575624082234vh;
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             justify-content: center;
           }
-          .home2-text08 {
+          .home-text08 {
             color: rgb(164, 171, 191);
-            font-size: 2.34375vh;
+            font-size: 3.0837004405286343vh;
             font-style: normal;
             font-family: Circular Std Book;
             font-weight: 400;
-            line-height: 2.92969vh;
+            line-height: 3.891336270190896vh;
           }
-          .home2-image {
-            width: 2.34375vh;
-            height: 2.34375vh;
+          .home-image {
+            width: 3.0837004405286343vh;
+            height: 3.0837004405286343vh;
             object-fit: cover;
             margin-left: 0.9765625vh;
             margin-right: 0.9765625vh;
           }
-          .home2-link02 {
+          .home-link02 {
             display: contents;
           }
-          .home2-container03 {
+          .home-container03 {
             flex: 0 0 auto;
-            width: 4.8828125vh;
-            height: 4.8828125vh;
+            width: 6.461086637298091vh;
+            height: 6.461086637298091vh;
             display: flex;
             transition: 0.3s;
             align-items: center;
@@ -314,21 +314,21 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container03:hover {
+          .home-container03:hover {
             background-color: #8b5cf6;
           }
-          .home2-image01 {
-            width: 2.9296875vh;
-            height: 2.9296875vh;
+          .home-image01 {
+            width: 3.8766519823788546vh;
+            height: 3.8766519823788546vh;
             object-fit: cover;
           }
-          .home2-link03 {
+          .home-link03 {
             display: contents;
           }
-          .home2-container04 {
+          .home-container04 {
             flex: 0 0 auto;
-            width: 4.8828125vh;
-            height: 4.8828125vh;
+            width: 6.461086637298091vh;
+            height: 6.461086637298091vh;
             display: flex;
             transition: 0.3s;
             align-items: center;
@@ -337,21 +337,21 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container04:hover {
+          .home-container04:hover {
             background-color: #0090ff;
           }
-          .home2-image02 {
-            width: 2.9296875vh;
-            height: 2.9296875vh;
+          .home-image02 {
+            width: 3.8766519823788546vh;
+            height: 3.8766519823788546vh;
             object-fit: cover;
           }
-          .home2-link04 {
+          .home-link04 {
             display: contents;
           }
-          .home2-container05 {
+          .home-container05 {
             flex: 0 0 auto;
-            width: 4.8828125vh;
-            height: 4.8828125vh;
+            width: 6.461086637298091vh;
+            height: 6.461086637298091vh;
             display: flex;
             transition: 0.3s;
             align-items: center;
@@ -360,21 +360,21 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container05:hover {
+          .home-container05:hover {
             background-color: #ff4de1;
           }
-          .home2-image03 {
-            width: 2.9296875vh;
-            height: 2.9296875vh;
+          .home-image03 {
+            width: 3.8766519823788546vh;
+            height: 3.8766519823788546vh;
             object-fit: cover;
           }
-          .home2-link05 {
+          .home-link05 {
             display: contents;
           }
-          .home2-container06 {
+          .home-container06 {
             flex: 0 0 auto;
-            width: 4.8828125vh;
-            height: 4.8828125vh;
+            width: 6.461086637298091vh;
+            height: 6.461086637298091vh;
             display: flex;
             transition: 0.3s;
             align-items: center;
@@ -383,21 +383,21 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container06:hover {
+          .home-container06:hover {
             background-color: #00a653;
           }
-          .home2-image04 {
-            width: 2.9296875vh;
-            height: 2.9296875vh;
+          .home-image04 {
+            width: 3.8766519823788546vh;
+            height: 3.8766519823788546vh;
             object-fit: cover;
           }
-          .home2-link06 {
+          .home-link06 {
             display: contents;
           }
-          .home2-container07 {
+          .home-container07 {
             flex: 0 0 auto;
-            width: 4.8828125vh;
-            height: 4.8828125vh;
+            width: 6.461086637298091vh;
+            height: 6.461086637298091vh;
             display: flex;
             transition: 0.3s;
             align-items: center;
@@ -406,22 +406,22 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container07:hover {
+          .home-container07:hover {
             background-color: #ff2e62;
           }
-          .home2-image05 {
-            width: 2.9296875vh;
-            height: 2.9296875vh;
+          .home-image05 {
+            width: 3.8766519823788546vh;
+            height: 3.8766519823788546vh;
             object-fit: cover;
           }
-          .home2-container08 {
+          .home-container08 {
             gap: 1.953125vh;
             flex: 0 0 auto;
             display: none;
             align-items: center;
             justify-content: center;
           }
-          .home2-container09 {
+          .home-container09 {
             flex: 0 0 auto;
             width: 4.8828125vh;
             height: 4.8828125vh;
@@ -433,15 +433,15 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container09:hover {
+          .home-container09:hover {
             background-color: #8b5cf6;
           }
-          .home2-image06 {
+          .home-image06 {
             width: 2.9296875vh;
             height: 2.9296875vh;
             object-fit: cover;
           }
-          .home2-container10 {
+          .home-container10 {
             flex: 0 0 auto;
             width: 4.8828125vh;
             height: 4.8828125vh;
@@ -453,15 +453,15 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container10:hover {
+          .home-container10:hover {
             background-color: #0090ff;
           }
-          .home2-image07 {
+          .home-image07 {
             width: 2.9296875vh;
             height: 2.9296875vh;
             object-fit: cover;
           }
-          .home2-container11 {
+          .home-container11 {
             flex: 0 0 auto;
             width: 4.8828125vh;
             height: 4.8828125vh;
@@ -473,15 +473,15 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container11:hover {
+          .home-container11:hover {
             background-color: #ff4de1;
           }
-          .home2-image08 {
+          .home-image08 {
             width: 2.9296875vh;
             height: 2.9296875vh;
             object-fit: cover;
           }
-          .home2-container12 {
+          .home-container12 {
             flex: 0 0 auto;
             width: 4.8828125vh;
             height: 4.8828125vh;
@@ -493,15 +493,15 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container12:hover {
+          .home-container12:hover {
             background-color: #00a653;
           }
-          .home2-image09 {
+          .home-image09 {
             width: 2.9296875vh;
             height: 2.9296875vh;
             object-fit: cover;
           }
-          .home2-container13 {
+          .home-container13 {
             flex: 0 0 auto;
             width: 4.8828125vh;
             height: 4.8828125vh;
@@ -513,52 +513,69 @@ const Home2 = (props) => {
             text-decoration: none;
             background-color: #1c253b;
           }
-          .home2-container13:hover {
+          .home-container13:hover {
             background-color: #ff2e62;
           }
-          .home2-image10 {
+          .home-image10 {
             width: 2.9296875vh;
             height: 2.9296875vh;
             object-fit: cover;
           }
-          .home2-container14 {
-            gap: 0.5859375vh;
+          .home-container14 {
+            gap: 2.0558002936857562vh;
             flex: 0 0 auto;
             left: 0px;
             right: 0px;
-            bottom: 7.8125vh;
+            bottom: 7.342143906020558vh;
             margin: auto;
             display: flex;
             position: absolute;
             align-items: center;
             justify-content: center;
           }
-          .home2-image11 {
-            width: 2.9296875vh;
-            height: 2.9296875vh;
+          .home-image11 {
+            width: 3.9647577092511015vh;
+            height: 3.9647577092511015vh;
             object-fit: cover;
           }
-          .home2-text09 {
-            color: rgb(164, 171, 191);
-            font-size: 2.34375vh;
+          .home-text09 {
+            color: #6a7388;
+            font-size: 3.0837004405286343vh;
             font-style: normal;
             font-family: Circular Std Book;
             font-weight: 400;
-            line-height: 2.92969vh;
+            line-height: 3.9647577092511015vh;
           }
           @media (max-width: 420px) {
-            .home2-text {
-              width: 85vw;
+            .home-text {
+              width: 80vw;
+              font-size: 2.3501762632197414vh;
               text-align: center;
+              line-height: 2.937720329024677vh;
+              margin-bottom: 2.937720329024677vh;
             }
-            .home2-text04 {
-              width: 85vw;
+            .home-text04 {
+              width: 80vw;
+              font-size: 2.3501762632197414vh;
+              line-height: 2.937720329024677vh;
+              margin-bottom: 4.8828125vh;
             }
-            .home2-container02 {
+            .home-container02 {
               display: none;
             }
-            .home2-container08 {
+            .home-container08 {
               display: flex;
+            }
+            .home-container14 {
+              gap: 1.762632197414806vh;
+            }
+            .home-image11 {
+              width: 2.937720329024677vh;
+              height: 2.937720329024677vh;
+            }
+            .home-text09 {
+              font-size: 2.3501762632197414vh;
+              line-height: 2.937720329024677vh;
             }
           }
         `}
@@ -567,4 +584,4 @@ const Home2 = (props) => {
   )
 }
 
-export default Home2
+export default Home
