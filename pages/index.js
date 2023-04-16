@@ -78,7 +78,7 @@ const Home = (props) => {
               className="home-image"
             />
             <a
-              href="https://www.instagram.com/krjayesh2110/"
+              href="https://www.instagram.com/krjdesignz/"
               target="_blank"
               rel="noreferrer noopener"
               className="home-link02"
@@ -148,7 +148,7 @@ const Home = (props) => {
           </div>
           <div className="home-container08">
             <a
-              href="https://www.instagram.com/krjayesh2110/"
+              href="https://www.instagram.com/krjdesignz/"
               target="_blank"
               rel="noreferrer noopener"
             >
