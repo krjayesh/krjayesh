@@ -237,7 +237,7 @@ const Home = (props) => {
             flex-direction: column;
             background-size: cover;
             justify-content: center;
-            background-image: url('https://raw.githubusercontent.com/krjayesh/cdn/main/Backgound%20Image%20Lossless.webp?token=GHSAT0AAAAAACBPKQT22CXN2VKKETB5HJW4ZC3XQ4Q');
+            background-image: url('https://my-cdn.pages.dev/bgimglossless.webp');
             background-repeat: no-repeat;
             background-position: center;
           }
@@ -312,7 +312,7 @@ const Home = (props) => {
             border-radius: 100%;
             justify-content: center;
             text-decoration: none;
-            background-color: #1c253b;
+            background-color: rgba(168, 193, 255, 0.076);
           }
           .home-container03:hover {
             background-color: #8b5cf6;
@@ -335,7 +335,7 @@ const Home = (props) => {
             border-radius: 100%;
             justify-content: center;
             text-decoration: none;
-            background-color: #1c253b;
+            background-color: rgba(168, 193, 255, 0.076);
           }
           .home-container04:hover {
             background-color: #0090ff;
@@ -358,7 +358,7 @@ const Home = (props) => {
             border-radius: 100%;
             justify-content: center;
             text-decoration: none;
-            background-color: #1c253b;
+            background-color: rgba(168, 193, 255, 0.076);
           }
           .home-container05:hover {
             background-color: #ff4de1;
@@ -381,7 +381,7 @@ const Home = (props) => {
             border-radius: 100%;
             justify-content: center;
             text-decoration: none;
-            background-color: #1c253b;
+            background-color: rgba(168, 193, 255, 0.076);
           }
           .home-container06:hover {
             background-color: #00a653;
@@ -404,7 +404,7 @@ const Home = (props) => {
             border-radius: 100%;
             justify-content: center;
             text-decoration: none;
-            background-color: #1c253b;
+            background-color: rgba(168, 193, 255, 0.076);
           }
           .home-container07:hover {
             background-color: #ff2e62;
@@ -548,7 +548,7 @@ const Home = (props) => {
           }
           @media (max-width: 420px) {
             .home-container {
-              background-image: url('https://raw.githubusercontent.com/krjayesh/cdn/main/Backgound%20Image%20Mobile.webp?token=GHSAT0AAAAAACBPKQT3NWCKQQE75MY7TNZUZC3XR6A');
+              background-image: url('https://my-cdn.pages.dev/bgimgmobile.webp');
             }
             .home-text {
               width: 80vw;
@@ -568,6 +568,21 @@ const Home = (props) => {
             }
             .home-container08 {
               display: flex;
+            }
+            .home-container09 {
+              background-color: rgba(168, 193, 255, 0.076);
+            }
+            .home-container10 {
+              background-color: rgba(168, 193, 255, 0.076);
+            }
+            .home-container11 {
+              background-color: rgba(168, 193, 255, 0.076);
+            }
+            .home-container12 {
+              background-color: rgba(168, 193, 255, 0.076);
+            }
+            .home-container13 {
+              background-color: rgba(168, 193, 255, 0.08);
             }
             .home-container14 {
               gap: 1.762632197414806vh;
