@@ -78,7 +78,7 @@ const Home = (props) => {
               className="home-image"
             />
             <a
-              href="https://www.instagram.com/krjdesignz/"
+              href="https://www.instagram.com/krjayesh2110/"
               target="_blank"
               rel="noreferrer noopener"
               className="home-link02"
@@ -148,7 +148,7 @@ const Home = (props) => {
           </div>
           <div className="home-container08">
             <a
-              href="https://www.instagram.com/krjdesignz/"
+              href="https://www.instagram.com/krjayesh2110/"
               target="_blank"
               rel="noreferrer noopener"
             >
@@ -237,7 +237,7 @@ const Home = (props) => {
             flex-direction: column;
             background-size: cover;
             justify-content: center;
-            background-image: url('/playground_assets/backgound%20image-1500w.webp');
+            background-image: url('https://raw.githubusercontent.com/krjayesh/cdn/main/Backgound%20Image%20Lossless.webp?token=GHSAT0AAAAAACBPKQT22CXN2VKKETB5HJW4ZC3XQ4Q');
             background-repeat: no-repeat;
             background-position: center;
           }
@@ -547,6 +547,9 @@ const Home = (props) => {
             line-height: 3.9647577092511015vh;
           }
           @media (max-width: 420px) {
+            .home-container {
+              background-image: url('https://raw.githubusercontent.com/krjayesh/cdn/main/Backgound%20Image%20Mobile.webp?token=GHSAT0AAAAAACBPKQT3NWCKQQE75MY7TNZUZC3XR6A');
+            }
             .home-text {
               width: 80vw;
               font-size: 2.3501762632197414vh;
