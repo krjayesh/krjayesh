@@ -78,7 +78,7 @@ const Home = (props) => {
               className="home-image"
             />
             <a
-              href="https://www.instagram.com/krjayesh2110/"
+              href="https://www.instagram.com/krjdesignz/"
               target="_blank"
               rel="noreferrer noopener"
               className="home-link02"
@@ -148,7 +148,7 @@ const Home = (props) => {
           </div>
           <div className="home-container08">
             <a
-              href="https://www.instagram.com/krjayesh2110/"
+              href="https://www.instagram.com/krjdesignz/"
               target="_blank"
               rel="noreferrer noopener"
             >
@@ -263,12 +263,12 @@ const Home = (props) => {
           .home-text04 {
             color: rgb(164, 171, 191);
             width: 96.0352422907489vh;
-            font-size: 3.0837004405286343vh;
+            font-size: 3.0837vh;
             font-style: normal;
             text-align: center;
             font-family: Circular Std Book;
             font-weight: 400;
-            line-height: 3.891336270190896vh;
+            line-height: 3.89134vh;
             margin-bottom: 5.873715124816447vh;
           }
           .home-link {
